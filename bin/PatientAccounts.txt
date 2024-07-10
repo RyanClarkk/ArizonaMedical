@@ -1,0 +1,12 @@
+Patient Accounts:
+
+John,Doe,01/01/2001
+	[Phone Number]: 123-311-3111
+	[Insurance Provider]: OKA
+	[Pharmacy Provider]: AAA
+
+Jane,Doe,02/02/2002
+	[Phone Number]: 211-111-1121
+	[Insurance Provider]: aaaa
+	[Pharmacy Provider]: wdaw
+

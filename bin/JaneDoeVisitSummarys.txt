@@ -1,0 +1,16 @@
+[Exam #1]:
+[Date]: 02/21/2021
+
+[Vitals]:
+	[Weight]: 111 lbs
+	[Height]: 1'11" <ft>'<in>"
+	[Body Temperature]: 211 F°
+	[Blood Pressure]: 2111
+
+[Nurse's Notes]: 
+aaa
+
+[History]: 
+aa
+
+

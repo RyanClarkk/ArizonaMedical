@@ -1,0 +1,47 @@
+[Exam #1]:
+[Date]: 02/21/2024
+
+[Vitals]:
+	[Weight]: 111 lbs
+	[Height]: 5'7" <ft>'<in>"
+	[Body Temperature]: 100 F°
+	[Blood Pressure]: 100/105
+
+[Nurse's Notes]: 
+Yes!
+
+[History]: 
+Okay!
+
+
+[Doctor's Exam]:
+Exam notes...
+
+[Prescription]:Prescription 300mg
+[Pharmaceutical Provider]: AAA
+[Signature]: Ok
+
+[Exam #2]:
+[Date]: 11/21/2024
+
+[Vitals]:
+	[Weight]: 111 lbs
+	[Height]: 5'7" <ft>'<in>"
+	[Body Temperature]: 120 F°
+	[Blood Pressure]: 121/100
+
+[Nurse's Notes]: 
+OKA!
+
+[History]: 
+Okay!
+
+
+[Doctor's Exam]:
+Exam notes...
+
+[Prescription]:Prescription 300mg
+[Pharmaceutical Provider]: AAA
+[Signature]: Ok
+
+
